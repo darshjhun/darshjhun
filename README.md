@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darsh
-- 👀 I’m interested in Python Games
+- 👀 I’m interested in Python Games, ML and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me darsh.jhun[at]gmail.com
